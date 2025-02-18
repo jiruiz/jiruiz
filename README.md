@@ -1,16 +1,25 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Juan Ignacio Ruiz  
 
-<!--
-**jiruiz/jiruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Apasionado por la tecnología y el desarrollo de software.  
+🔹 Estudiante de la Universidad Nacional de la Matanza.  
+🔹 Especializado en **C#, VB.NET, ASP.NET, SQL Server y Entity Framework**.  
+🔹 También trabajo con **Python, Django y VBA**.  
 
-Here are some ideas to get you started:
+💻 **Actualmente trabajando en:**  
+- Desarrollo de aplicaciones con C# y .NET  
+- Proyectos en ASP.NET Web Forms y Entity Framework  
+- Un **E-Commerce** con Python y Django  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Aprendiendo:**  
+- Arquitectura de software y buenas prácticas  
+- Desarrollo web con tecnologías modernas  
+
+📬 **Contáctame:**  
+- LinkedIn: [Tu Perfil](#)  
+- GitHub: [github.com/jiruiz](https://github.com/jiruiz)  
+- Email: [Tu Email](#)  
+
+⚡ **Fun fact:** Me encanta optimizar procesos y hacer que el código sea más eficiente.  
+
+---
+⭐ ¡No olvides seguirme y revisar mis repositorios! 🚀
