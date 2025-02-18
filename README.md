@@ -15,8 +15,8 @@ Soy un apasionado del desarrollo de software y la tecnología. Me especializo en
 Estoy abierto a proyectos en **desarrollo de software** y **optimización de bases de datos**.  
 
 ### 📫 ¿Cómo contactarme?  
-📩 **Email**: [tu-email@example.com](mailto:tu-email@example.com)  
-💼 **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
+📩 **Email**: [tu-email@example.com](juanignacioruiz540@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/juan-ignacio-ruiz)  
 
 ---
 
