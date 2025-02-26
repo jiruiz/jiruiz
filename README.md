@@ -6,10 +6,7 @@ Soy **Técnico Superior en Análisis de Sistemas** y actualmente estudio **Licen
 - **Desarrollo**: Aplicaciones de escritorio con **C# y VB.NET** y aplicaciones web con **Python y Django**.  
 - **Gestión de datos**: Consultas SQL, reportes y análisis de datos.  
 - **Metodologías**: Scrum, QA Testing y automatización.  
-
-### 📚 ¿Qué estoy estudiando?  
-- **Queuing Theory** y su aplicación en sistemas.  
-- Nuevas tecnologías en **desarrollo web y bases de datos**.  
+ 
 
 ### 💼 Experiencia  
 Actualmente, soy **Asistente de Administración**, donde brindo soporte en gestión de datos, consultas SQL y análisis financiero. He trabajado en roles de coordinación y administración, logrando optimizar procesos y tiempos de gestión.  
