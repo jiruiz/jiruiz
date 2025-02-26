@@ -2,8 +2,8 @@
 Soy **Técnico Superior en Análisis de Sistemas** y actualmente estudio **Licenciatura en Gestión de Tecnología en la UNLaM**. Me apasiona el desarrollo de software y la optimización de bases de datos.  
 
 ### 🚀 Habilidades y Tecnologías  
-- **Lenguajes y Frameworks**: C#, .NET, ASP.NET, SQL Server, Entity Framework, Python, Django, VBA.  
-- **Desarrollo**: Aplicaciones de escritorio con **C# y VB.NET** y aplicaciones web con **Python y Django**.  
+- **Lenguajes y Frameworks**: C#, JAVA, Python, VBA, .NET, ASP.NET, SQL Server, Entity Framework, Python, Django, VBA.  
+- **Desarrollo**: Aplicaciones de escritorio y web con **C# y VB.NET** y aplicaciones web con **Python y Django**.  
 - **Gestión de datos**: Consultas SQL, reportes y análisis de datos.  
 - **Metodologías**: Scrum, QA Testing y automatización.  
  
