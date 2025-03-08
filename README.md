@@ -16,8 +16,7 @@ Estoy abierto a proyectos de **desarrollo de software**, **optimización de base
 
 ### 📫 Contacto  
 📩 **Email**: [juanignacioruiz540@gmail.com](mailto:juanignacioruiz540@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/juan-ignacio-ruiz](https://linkedin.com/in/juan-ignacio-ruiz)  
-👨‍💻 **GitHub**: [github.com/jiruiz](https://github.com/jiruiz)  
+💼 **LinkedIn**: [linkedin.com/in/juan-ignacio-ruiz](https://linkedin.com/in/juan-ignacio-ruiz)   
 
 
 ⭐ **¡No olvides visitar mis proyectos y dejar una estrella!** 🚀
