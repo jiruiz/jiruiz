@@ -1,7 +1,7 @@
 ## **¡Hola, soy Juan Ignacio!** 👋🚀
 
-Soy **Técnico Superior en Análisis de Sistemas** 🎓 y actualmente estudio **Licenciatura en Gestión de Tecnología** en la **UNLaM**.  
-Me apasiona el desarrollo de software 💻 y la optimización de bases de datos 📊.
+Soy **Técnico Superior en Análisis de Sistemas** 🎓 y actualmente estudio **Licenciatura en Gestión de Tecnología** en **UNLaM**.  
+Me apasiona el desarrollo de software 💻 y la optimización de Procesos de Negocios 📊.
 
 ---
 
@@ -27,7 +27,7 @@ Actualmente trabajo como **Asistente de Administración** 📋, donde:
 ### **🤝 ¿Quieres colaborar conmigo?**
 Estoy abierto a proyectos como:
 - 💻 **Desarrollo de software**.  
-- ⚙️ **Optimización de Proceos de Negocios**.  
+- ⚙️ **Optimización de Procesos de Negocios**.  
 - 📊 **Análisis de datos**.
 
 ---
