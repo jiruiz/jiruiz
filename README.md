@@ -7,7 +7,8 @@ Me apasiona el desarrollo de software 💻 y la optimización de bases de datos 
 
 ### **🚀 Habilidades y Tecnologías**
 **💡 Lenguajes y Frameworks:**
-- 🛠 **C#**, **JAVA**, **Python**, **VBA**, **.NET**, **ASP.NET**, **SQL Server**, **Entity Framework**, **Django**.  
+- 🛠 **C#**, **JAVA**, **Python**, **VBA**, **.NET**, **ASP.NET** ![image](https://github.com/user-attachments/assets/582e9a19-adde-4528-901d-df1a41cf3d1c)
+, **SQL Server**, **Entity Framework**, **Django**.  
 - 🌐 **Desarrollo**: Aplicaciones web y escritorio con **C#**, **VB.NET** y **Python**.  
 - 🔍 **Gestión de Datos**: Consultas SQL, reportes y análisis de datos.
 
