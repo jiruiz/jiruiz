@@ -1,7 +1,7 @@
 ## **¡Hola, soy Juan Ignacio!** 👋🚀
 
 Soy **Técnico Superior en Análisis de Sistemas** 🎓 y actualmente estudio la **Licenciatura en Gestión de Tecnología** en la **UNLaM**.  
-Me apasiona el desarrollo de software 💻 y cómo la tecnología puede mejorar la eficiencia de los procesos de negocio 📊.
+Me apasiona el desarrollo de software 💻 y cómo la tecnología puede ayudar a facilitar tareas cotidianas 📊.
 
 ---
 
@@ -13,15 +13,14 @@ Me apasiona el desarrollo de software 💻 y cómo la tecnología puede mejorar 
 - 🔍 **Gestión de datos**: Consultas **SQL**, uso de **Power BI**, **Knime**, técnicas de **Data Mining**, reportes y análisis de información
 
 **📋 Metodologías:**
-- ✅ **Scrum**, **QA Testing**, automatización de tareas y mejora continua
+- ✅ **Scrum**, **QA Testing** y mejora continua
 
 ---
 
 ### **💼 Experiencia Profesional**
 
-Actualmente me desempeño como **Asistente Administrativo** 📋 en una empresa de transporte, donde:
-- 🧠 Brindo soporte en **gestión de datos** y análisis contable  
-- 🚀 Propongo mejoras que optimizan **tiempos** y **procesos internos**  
+Actualmente me desempeño como **Asistente Administrativo** 📋 , donde:
+- 🧠 Brindo soporte en **gestión de datos**, análisis y reportes.
 - 🤝 Colaboro activamente en tareas de **coordinación** y **administración general**
 
 ---
@@ -30,7 +29,6 @@ Actualmente me desempeño como **Asistente Administrativo** 📋 en una empresa 
 
 Estoy abierto a colaborar en proyectos relacionados con:
 - 💻 **Desarrollo de software**
-- ⚙️ **Optimización de procesos empresariales**
 - 📊 **Análisis y visualización de datos**
 
 ---
