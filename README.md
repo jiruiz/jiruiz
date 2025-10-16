@@ -110,15 +110,17 @@ Desarrollador enfocado en aplicaciones web escalables y soluciones de análisis 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0A0E27"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jiruiz&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0A0E27"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0A0E27"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiruiz&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0A0E27"/>
     </td>
   </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tuusuario&theme=tokyonight&hide_border=true&background=0A0E27&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=jiruiz&theme=tokyonight&hide_border=true&background=0A0E27&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jiruiz&bg_color=0a0e27&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
