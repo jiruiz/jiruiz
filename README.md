@@ -2,9 +2,9 @@
 
 # 👨‍💻 Juan Ignacio Ruiz
 
-**Backend Developer | Business Intelligence | Process Automation**
+**Backend Developer | .NET & Python | Web Applications**
 
-Desarrollador enfocado en aplicaciones web escalables y soluciones de análisis de datos con .NET, Python y SQL Server.
+Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases de datos relacionales.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanignacioruiz540@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-ignacio-ruiz)
@@ -29,8 +29,8 @@ Desarrollador enfocado en aplicaciones web escalables y soluciones de análisis 
       <br><strong>Python / Django</strong>
     </td>
     <td align="center" width="25%">
-      <img height="60" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
-      <br><strong>SQL Server</strong>
+      <img height="60" src="https://skillicons.dev/icons?i=mysql,postgres" />
+      <br><strong>MySQL / PostgreSQL</strong>
     </td>
     <td align="center" width="25%">
       <img height="60" src="https://skillicons.dev/icons?i=git,vscode" />
@@ -53,17 +53,17 @@ Desarrollador enfocado en aplicaciones web escalables y soluciones de análisis 
       <h3>🌐 Aplicaciones Web</h3>
       <strong>ASP.NET Core • Django REST • MVC</strong>
       <br><br>
-      APIs escalables y sistemas de gestión
+      APIs RESTful y sistemas de gestión
     </td>
     <td align="center" width="33%">
-      <h3>📊 Business Intelligence</h3>
-      <strong>Power BI • SQL • Dashboards</strong>
+      <h3>💾 Backend Development</h3>
+      <strong>Arquitectura • Bases de Datos • APIs</strong>
       <br><br>
-      Análisis de datos y reportes automatizados
+      Soluciones escalables y eficientes
     </td>
     <td align="center" width="33%">
       <h3>⚙️ Automatización</h3>
-      <strong>Python • Scripts • ETL</strong>
+      <strong>Python • Scripts • Integración</strong>
       <br><br>
       Optimización de procesos y workflows
     </td>
@@ -82,10 +82,10 @@ Desarrollador enfocado en aplicaciones web escalables y soluciones de análisis 
   <tr>
     <td align="center" width="50%">
       <h3>🏢 Asistente Administrativo</h3>
-      <strong>Análisis de Datos & Automatización</strong>
+      <strong>Desarrollo & Automatización</strong>
       <br><br>
-      • Desarrollo de dashboards KPI<br>
-      • Automatización de reportes<br>
+      • Desarrollo de aplicaciones internas<br>
+      • Automatización de procesos<br>
       • Integración de sistemas
     </td>
     <td align="center" width="50%">
@@ -94,7 +94,7 @@ Desarrollador enfocado en aplicaciones web escalables y soluciones de análisis 
       <br><br>
       • Análisis de sistemas<br>
       • Gestión de proyectos<br>
-      • Innovación tecnológica
+      • Desarrollo de software
     </td>
   </tr>
 </table>
@@ -128,7 +128,7 @@ Desarrollador enfocado en aplicaciones web escalables y soluciones de análisis 
 
 ## 📫 Conectemos
 
-**Abierto a oportunidades de desarrollo backend y soluciones BI**
+**Abierto a oportunidades de desarrollo backend**
 
 <a href="mailto:juanignacioruiz540@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
