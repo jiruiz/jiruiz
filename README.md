@@ -118,8 +118,6 @@ Desarrollador enfocado en aplicaciones web escalables y soluciones de análisis 
   </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jiruiz&theme=tokyonight&hide_border=true&background=0A0E27&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jiruiz&bg_color=0a0e27&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
 
 </div>
