@@ -1,10 +1,10 @@
 <div align="center">
 
-# Juan Ignacio Ruiz
+# 👨‍💻 Juan Ignacio Ruiz
 
-**Backend Developer | .NET & Python | Business Intelligence**
+**Backend Developer | Business Intelligence | Process Automation**
 
-Desarrollador con experiencia en aplicaciones empresariales, automatización de procesos y análisis de datos. Especializado en arquitecturas escalables y soluciones de BI.
+Desarrollador enfocado en aplicaciones web escalables y soluciones de análisis de datos con .NET, Python y SQL Server.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanignacioruiz540@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-ignacio-ruiz)
@@ -14,13 +14,15 @@ Desarrollador con experiencia en aplicaciones empresariales, automatización de 
 
 ---
 
-## 🛠️ Stack Técnico
+<div align="center">
+
+## 🛠️ Tech Stack
 
 <table>
   <tr>
     <td align="center" width="25%">
       <img height="60" src="https://skillicons.dev/icons?i=cs,dotnet" />
-      <br><strong>C# / ASP.NET Core</strong>
+      <br><strong>C# / ASP.NET</strong>
     </td>
     <td align="center" width="25%">
       <img height="60" src="https://skillicons.dev/icons?i=python,django" />
@@ -37,43 +39,73 @@ Desarrollador con experiencia en aplicaciones empresariales, automatización de 
   </tr>
 </table>
 
----
-
-## 💼 Experiencia y Formación
-
-**Asistente Administrativo con Enfoque Técnico**
-- Desarrollo e implementación de dashboards analíticos con Power BI
-- Automatización de procesos administrativos mediante Python y SQL
-- Integración y optimización de flujos de datos entre sistemas
-
-**Licenciatura en Gestión de Tecnología | UNLaM**
-- Análisis y diseño de sistemas de información
-- Gestión de proyectos tecnológicos
+</div>
 
 ---
-
-## 🚀 Áreas de Especialización
-
-**Desarrollo Backend**
-- APIs RESTful con ASP.NET Core y Django REST Framework
-- Arquitectura MVC y patrones de diseño
-- Integración con bases de datos relacionales
-
-**Business Intelligence & Data**
-- Diseño de modelos de datos y ETL
-- Desarrollo de dashboards y reportes ejecutivos
-- Análisis y visualización de KPIs
-
-**Automatización & DevOps**
-- Scripts de automatización con Python
-- Control de versiones con Git
-- Optimización de workflows empresariales
-
----
-
-## 📊 GitHub Activity
 
 <div align="center">
+
+## 🚀 Lo que construyo
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Aplicaciones Web</h3>
+      <strong>ASP.NET Core • Django REST • MVC</strong>
+      <br><br>
+      APIs escalables y sistemas de gestión
+    </td>
+    <td align="center" width="33%">
+      <h3>📊 Business Intelligence</h3>
+      <strong>Power BI • SQL • Dashboards</strong>
+      <br><br>
+      Análisis de datos y reportes automatizados
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Automatización</h3>
+      <strong>Python • Scripts • ETL</strong>
+      <br><br>
+      Optimización de procesos y workflows
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Experiencia Actual
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏢 Asistente Administrativo</h3>
+      <strong>Análisis de Datos & Automatización</strong>
+      <br><br>
+      • Desarrollo de dashboards KPI<br>
+      • Automatización de reportes<br>
+      • Integración de sistemas
+    </td>
+    <td align="center" width="50%">
+      <h3>🎓 Lic. Gestión de Tecnología</h3>
+      <strong>Universidad Nacional de La Matanza</strong>
+      <br><br>
+      • Análisis de sistemas<br>
+      • Gestión de proyectos<br>
+      • Innovación tecnológica
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
 
 <table>
   <tr>
@@ -86,15 +118,17 @@ Desarrollador con experiencia en aplicaciones empresariales, automatización de 
   </tr>
 </table>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=tuusuario&theme=tokyonight&hide_border=true&background=0A0E27&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)
+
 </div>
 
 ---
 
-## 📫 Contacto
-
-Disponible para proyectos de desarrollo backend, soluciones de BI y consultoría técnica.
-
 <div align="center">
+
+## 📫 Conectemos
+
+**Abierto a oportunidades de desarrollo backend y soluciones BI**
 
 <a href="mailto:juanignacioruiz540@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -105,5 +139,9 @@ Disponible para proyectos de desarrollo backend, soluciones de BI y consultoría
 <a href="https://jiruiz.pythonanywhere.com">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+
+<br><br>
+
+**⭐ Gracias por visitar mi perfil**
 
 </div>
