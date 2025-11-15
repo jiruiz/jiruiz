@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👨‍💻 Juan Ignacio Ruiz
-
 **Backend Developer | .NET & Python | Web Applications**
 
 Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases de datos relacionales.
