@@ -10,7 +10,7 @@ Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases d
 
 </div>
 
----
+
 
 <div align="center">
 
