@@ -26,14 +26,7 @@ Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases d
       <img height="60" src="https://skillicons.dev/icons?i=python,django" />
       <br><strong>Python / Django</strong>
     </td>
-    <td align="center" width="25%">
-      <img height="60" src="https://skillicons.dev/icons?i=mysql,postgres" />
-      <br><strong>MySQL / PostgreSQL</strong>
-    </td>
-    <td align="center" width="25%">
-      <img height="60" src="https://skillicons.dev/icons?i=git,vscode" />
-      <br><strong>Git / VSCode</strong>
-    </td>
+    
   </tr>
 </table>
 
