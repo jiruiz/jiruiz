@@ -65,32 +65,7 @@ Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases d
 
 ---
 
-<div align="center">
 
-## 💼 Experiencia Actual
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏢 Asistente Administrativo</h3>
-      <strong>Desarrollo & Automatización</strong>
-      <br><br>
-      • Desarrollo de aplicaciones internas<br>
-      • Automatización de procesos<br>
-      • Integración de sistemas
-    </td>
-    <td align="center" width="50%">
-      <h3>🎓 Lic. Gestión de Tecnología</h3>
-      <strong>Universidad Nacional de La Matanza</strong>
-      <br><br>
-      • Análisis de sistemas<br>
-      • Gestión de proyectos<br>
-      • Desarrollo de software
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
