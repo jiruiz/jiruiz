@@ -32,14 +32,6 @@ Desarrollo aplicaciones web y APIs enfocadas en soluciones simples, escalables y
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jiruiz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiruiz&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contacto
 
 Abierto a oportunidades backend y proyectos web.
