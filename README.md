@@ -1,8 +1,12 @@
 <div align="center">
 
-**Backend Developer | .NET & Python | Web Applications**
+# Juan Ignacio Ruiz  
 
-Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases de datos relacionales.
+### Analista de Gestión & Tecnología  
+**Backend | Automatización | Sistemas | Datos**
+
+Desarrollo soluciones que conectan administración y tecnología.  
+Construyo aplicaciones web, APIs y automatizaciones que optimizan procesos reales de negocio.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanignacioruiz540@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-ignacio-ruiz)
@@ -10,23 +14,44 @@ Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases d
 
 </div>
 
---
+---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🧠 Enfoque
+
+Sistemas pensados para resolver problemas reales:
+
+✔ Gestión administrativa digital  
+✔ Automatización de procesos  
+✔ APIs y arquitectura backend  
+✔ Análisis y transformación de datos  
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Stack Principal
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img height="60" src="https://skillicons.dev/icons?i=cs,dotnet" />
-      <br><strong>C# / ASP.NET</strong>
+      <br><strong>C# / ASP.NET Core</strong>
+      <br>APIs • MVC • Entity Framework
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img height="60" src="https://skillicons.dev/icons?i=python,django" />
       <br><strong>Python / Django</strong>
+      <br>Web Apps • REST • Automatización
     </td>
-    
+    <td align="center" width="33%">
+      <img height="60" src="https://skillicons.dev/icons?i=postgres,sqlserver" />
+      <br><strong>Bases de Datos</strong>
+      <br>SQL Server • PostgreSQL
+    </td>
   </tr>
 </table>
 
@@ -42,30 +67,20 @@ Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases d
   <tr>
     <td align="center" width="33%">
       <h3>🌐 Aplicaciones Web</h3>
-      <strong>ASP.NET Core • Django REST • MVC</strong>
-      <br><br>
-      APIs RESTful y sistemas de gestión
+      Sistemas de gestión, turnos y plataformas SaaS.
     </td>
     <td align="center" width="33%">
-      <h3>💾 Backend Development</h3>
-      <strong>Arquitectura • Bases de Datos • APIs</strong>
-      <br><br>
-      Soluciones escalables y eficientes
+      <h3>⚙ Automatización</h3>
+      Python + VBA para optimizar tareas administrativas y financieras.
     </td>
     <td align="center" width="33%">
-      <h3>⚙️ Automatización</h3>
-      <strong>Python • Scripts • Integración</strong>
-      <br><br>
-      Optimización de procesos y workflows
+      <h3>📊 Datos & Procesos</h3>
+      Transformación, control y análisis para toma de decisiones.
     </td>
   </tr>
 </table>
 
 </div>
-
----
-
-
 
 ---
 
@@ -76,15 +91,13 @@ Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases d
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jiruiz&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0A0E27"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jiruiz&show_icons=true&theme=tokyonight&hide_border=true"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiruiz&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0A0E27"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiruiz&layout=compact&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
 </table>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jiruiz&bg_color=0a0e27&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -92,22 +105,8 @@ Desarrollador enfocado en aplicaciones web escalables con .NET, Python y bases d
 
 <div align="center">
 
-## 📫 Conectemos
+## 🤝 Conectemos
 
-**Abierto a oportunidades de desarrollo backend**
-
-<a href="mailto:juanignacioruiz540@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/juan-ignacio-ruiz">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://jiruiz.pythonanywhere.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br><br>
-
-**⭐ Gracias por visitar mi perfil**
+Interesado en proyectos donde la tecnología mejore la gestión y los procesos.
 
 </div>
