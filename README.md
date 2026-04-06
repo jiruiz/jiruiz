@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas)](https://git.io/typing-svg)
 
-# Juan Ignacio Ruiz
-### 🎯 Analista de Sistemas | Funcional & Datos
-
 > Técnico con 7+ años en entornos reales. Traduzco procesos de negocio en soluciones tecnológicas.  
 
 
@@ -16,19 +13,9 @@
 
 ---
 
-## 🙋 Sobre mí
+## 🙋 
 
-Soy Analista de Sistemas graduado con más de 7 años en entornos corporativos.
-Trabajé en administración, operaciones y coordinación — lo que me dio algo que
-pocos recién egresados tienen: **entender cómo funciona un negocio por dentro**.
-
-Hoy aplico esa experiencia para relevar requerimientos, documentar procesos
-y construir soluciones que tienen sentido para quien las usa.
-
-- 🎓 Tec. Superior en Análisis de Sistemas — IFTS N°18 (2023)
-- 📚 Lic. en Gestión de Tecnología — UNLaM *(última materia)*
-- 📍 CABA — Disponible presencial, híbrido o remoto
-- 🔍 Buscando: Analista funcional / de sistemas / BA
+Con más de 10 años **entendiendo cómo funcionan los negocios y sus sistemas**.
 
 ---
 
@@ -43,12 +30,6 @@ y construir soluciones que tienen sentido para quien las usa.
 
 ---
 
-## 🎓 Formación & Certificaciones
-
-**Formación:**
-- 📘 Lic. en Gestión de Tecnología — UNLaM *(en curso, última materia)*
-- 🎓 Tec. Superior en Análisis de Sistemas — IFTS N°18 *(graduado 2023)*
-
 **Certificaciones:**
 - ✅ Scrum Foundations — CertiProf (2024)
 - 🐍 Desarrollo Web Python & Django — Educación IT (2023)
@@ -60,6 +41,6 @@ y construir soluciones que tienen sentido para quien las usa.
 <div align="center">
 
 *Si mi perfil te resulta interesante, ¡escribime sin problema!*  
-**Estoy listo para dar el salto a mi primer rol en tecnología.** 🚀
+**Estoy listo para dar ayudarte.** 🚀
 
 </div>
