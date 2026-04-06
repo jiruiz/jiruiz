@@ -49,8 +49,8 @@ y construir soluciones que tienen sentido para quien las usa.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiruiz&show_icons=true&theme=default&hide_border=true&locale=es" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiruiz&layout=compact&theme=default&hide_border=true&locale=es" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiruiz&show_icons=true&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiruiz&layout=compact&hide_border=true" height="150"/>
 </p>
 
 ---
