@@ -11,11 +11,7 @@
 
 </div>
 
----
-
 > Con más de 10 años **entendiendo cómo funcionan los negocios y sus sistemas**.
-
----
 
 ## 🚀 Proyectos
 
