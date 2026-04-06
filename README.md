@@ -6,7 +6,7 @@
 ### 🎯 Analista de Sistemas | Funcional & Datos
 
 > Técnico con 7+ años en entornos reales. Traduzco procesos de negocio en soluciones tecnológicas.  
-> Busco mi primer rol en tecnología.
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanignacioruiz540@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-ignacio-ruiz)
@@ -48,12 +48,10 @@ y construir soluciones que tienen sentido para quien las usa.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jiruiz&show_icons=true&theme=default&hide_border=true&locale=es" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiruiz&layout=compact&theme=default&hide_border=true&locale=es" height="150"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiruiz&show_icons=true&theme=default&hide_border=true&locale=es" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiruiz&layout=compact&theme=default&hide_border=true&locale=es" height="150" alt="Top languages" />
+</p>
 
 ---
 
