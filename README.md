@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas;Graduado+IFTS+N%C2%B018+%7C+UNLaM+en+curso;Listo+para+mi+primer+rol+en+tecnolog%C3%ADa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas)](https://git.io/typing-svg)
 
 # Juan Ignacio Ruiz
 ### 🎯 Analista de Sistemas | Funcional & Datos
