@@ -33,6 +33,6 @@
 <div align="center">
 
 *Si mi perfil te resulta interesante, ¡escribime sin problema!*  
-**Estoy listo para dar ayudarte.** 🚀
+**Estoy listo para ayudarte.** 🚀
 
 </div>
