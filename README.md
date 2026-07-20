@@ -7,25 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-ignacio-ruiz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jiruiz.pythonanywhere.com)
 
-</div>
-
-## 🚀 Proyectos
-
-| Proyecto | Descripción | Tech |
-|---|---|---|
-| [🛒 Electronic House](https://github.com/jiruiz/Electronic-House) | E-commerce completo analizado, diseñado y desarrollado end-to-end | Python · Django |
-| [🏢 Sistema Gestión](https://github.com/jiruiz/Sistema-Gestion) | ABM de agencias con Entity Framework | C# · .NET |
-| [🌐 AplicacionWEB ASP.NET](https://github.com/jiruiz/AplicacionWEB-ASP.NET-LINQ) | Gestión de usuarios, roles y autenticación | C# · LINQ |
-| [📊 Admin Ventas](https://github.com/jiruiz/SistemaAdminVentas) | Sistema de administración de ventas | VB.NET |
-
----
-
-**Certificaciones:**
-- ✅ Scrum Foundations — CertiProf (2024)
-- 🐍 Desarrollo Web Python & Django — Educación IT (2023)
-- 🧪 QA Tester Automation — Inflectra Corporation (2019)
-- ☕ Java / SQL — Ministerio de Producción *(Trayecto Programador, 2017)*
-
 
 
 
