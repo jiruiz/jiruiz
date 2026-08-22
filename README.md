@@ -1,12 +1,19 @@
-# Juan
+# Juan Ignacio Ruiz
 
 Backend developer — Java & Spring Boot.
 
-[![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=blue)](https://github.com/TU_USUARIO)
+![Visitas](https://komarev.com/ghpvc/?username=jiruiz&style=flat-square&color=blue)
+![Seguidores](https://img.shields.io/github/followers/jiruiz?style=flat-square&label=Seguidores)
+![Estrellas](https://img.shields.io/github/stars/jiruiz?style=flat-square&label=Estrellas)
 
 ## Proyectos destacados
 
-- [Proyecto principal](ENLACE) — Descripción breve.
-- [Segundo proyecto](ENLACE) — Descripción breve.
+- [java-demo-web](https://github.com/jiruiz/java-demo-web) — API REST con Spring Boot, JPA, MySQL y Swagger.
+- [Tienda-Java-Mysql](https://github.com/jiruiz/Tienda-Java-Mysql) — Aplicación de gestión desarrollada con Java y MySQL.
+- [APP-WEB-MOVIES-DJANGO-FINAL](https://github.com/jiruiz/APP-WEB-MOVIES-DJANGO-FINAL) — Aplicación web de películas desarrollada con Django.
 
-`Java` · `Spring Boot` · `SQL` · `REST APIs` · `Git`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
