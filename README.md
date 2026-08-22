@@ -8,9 +8,9 @@ Backend developer — Java & Spring Boot.
 
 ## Proyectos destacados
 
+- [ApiPersonasMicro](https://github.com/jiruiz/ApiPersonasMicro) — Ecosistema de APIs y aplicaciones web desarrollado con .NET.
+- [AplicacionWEB-ASP.NET-LINQ](https://github.com/jiruiz/AplicacionWEB-ASP.NET-LINQ) — Gestión de servicios con autenticación, roles, LINQ y SQL Server.
 - [java-demo-web](https://github.com/jiruiz/java-demo-web) — API REST con Spring Boot, JPA, MySQL y Swagger.
-- [Tienda-Java-Mysql](https://github.com/jiruiz/Tienda-Java-Mysql) — Aplicación de gestión desarrollada con Java y MySQL.
-- [APP-WEB-MOVIES-DJANGO-FINAL](https://github.com/jiruiz/APP-WEB-MOVIES-DJANGO-FINAL) — Aplicación web de películas desarrollada con Django.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
